@@ -1,0 +1,34 @@
+what is the difference between BVT and Defects Life Cycle
+What is the test process and test design
+what is the differencc between HTTP/SOAP/REST
+what Kind of tool is selenium in terms of Web based application
+what is the Load Runner suite and selenium suite
+Can selenium scripts be embedded in Load Runner - justify
+
+Requirement to automate a web based application for the currency validation
+
+1.The User has to validate the currency conversion keeping the base currency in INR as country Name India and display the currency for the various transactions in the opencart and validate the base curreny with populated in the open cart application
+
+2.The input has to be taken for the user for the base currency and checked against the tranaction curreny with valiation on the web based objects
+Count the number of links in the drop down box of the currency
+
+3.capture the validation message for the invalid curreny using the java script alert box or text message
+
+
+                                                                      :ANSWERS:
+1)  BVT:BVT means Built Verification Testing.which is a set of tests process.which is used to verify new built before it's testing.BVT is automated.
+    DEFECTS LIFE CYCLE:defects is going through its lifetime proces.which is avctually start when defect is found and end when defect is closed.
+
+2)   TEST PROCESS:Testing is the process of evaluating whether the system or its components satiesfies the requirements or not.like erros or any other defects are happened and then it check and verify.
+     TEST DESIGN:Test design is the process of identifying test cases by test conditions.
+
+3)  http:hyper text transfer protocal is a transfered based protocal
+    soap:simple object access protocal is used to accessing web services
+    rest:Representational state is an actual standard for providing standards between the computer system and web.
+
+4) selenium is a "open source tool" which is used for automating the tests.
+
+5) load runner suite:LoadRunner is an automated load testing tool that allows  to test the application before, during, and after deployment.
+   selenium suite:selenium is a open source testing suite for different web applications in any browser.
+
+6)  yes.The selenium scripts can be embedded in load runner by doing some extensions and steps.
